@@ -1,0 +1,52 @@
+item {
+  id: 1
+  name: 'Bottle1'
+}
+item {
+  id: 2
+  name: 'Bottle2'
+}
+item {
+  id: 3
+  name: 'Bottle3'
+}
+item {
+  id: 4
+  name: 'Can1'
+}
+item {
+  id: 5
+  name: 'Can2'
+}
+item {
+  id: 6
+  name: 'Medicine1'
+}
+item {
+  id: 7
+  name: 'Medicine2'
+}
+item {
+  id: 8
+  name: 'Medicine3'
+}
+item {
+  id: 9
+  name: 'corn'
+}
+item {
+  id: 10
+  name: 'bread'
+}
+item {
+  id: 11
+  name: 'Paper_plate'
+}
+item {
+  id: 12
+  name: 'Paper_cup'
+}
+
+item {
+	id:0
+	name: 'NAN'
